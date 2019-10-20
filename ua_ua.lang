@@ -3,106 +3,106 @@
 # Gui
 
 ## Tooltips
-tfc.tooltip.toolclass=§fКласс инструмента:§7 %s
-tfc.tooltip.toolclasses=§fКлассы инструмента:
-tfc.tooltip.oredictionaryentry=§fOre Dictionary name:§7 %s
-tfc.tooltip.oredictionaryentries=§fOre Dictionary names:
-tfc.tooltip.metal=§fМеталл:§7 %s
-tfc.tooltip.units=%d едениц
-tfc.tooltip.smelting=Выплавить в %s
-tfc.tooltip.liquid=Жидкость
-tfc.tooltip.barrel_empty=Пусто
-tfc.tooltip.barrel_fluid=Содержит %1$d mB из %2$s
+tfc.tooltip.toolclass=§fКлас інструменту:§7 %s
+tfc.tooltip.toolclasses=§fКласи інструменту:
+tfc.tooltip.oredictionaryentry=§fНазва руди словник:§7 %s
+tfc.tooltip.oredictionaryentries=§fРуда словник імен:
+tfc.tooltip.metal=§fМетал:§7 %s
+tfc.tooltip.units=%d одиниць
+tfc.tooltip.smelting=Виплавити в %s
+tfc.tooltip.liquid=Рідина
+tfc.tooltip.barrel_empty=Порожньо
+tfc.tooltip.barrel_fluid=Містить %1$d mB із %2$s
 tfc.tooltip.barrel_fluid_amount=%d mB
-tfc.tooltip.barrel_item=Содержит %1$dx %2$s
-tfc.tooltip.barrel_item_in_fluid= и %1$dx %2$s
-tfc.tooltip.small_vessel_empty=Пустой
+tfc.tooltip.barrel_item=Містить %1$dx %2$s
+tfc.tooltip.barrel_item_in_fluid= і %1$dx %2$s
+tfc.tooltip.small_vessel_empty=Порожній
 tfc.tooltip.small_vessel_item=%1$dx %2$s
-tfc.tooltip.weldable=Можно сваривать
-tfc.tooltip.workable=Можно ковать
+tfc.tooltip.weldable=Можна зварювати
+tfc.tooltip.workable=Можна кувати
 tfc.tooltip.danger=§cП§4е§cр§4е§cг§4р§cе§4в
-tfc.tooltip.anvil_plan=Чертежи
-tfc.tooltip.anvil_tier_too_low=Низкий уровень наковальни!
-tfc.tooltip.anvil_no_flux=Отсутствует флюс!
-tfc.tooltip.anvil_too_cold=Предмет недостаточно горячий, чтобы с ним работать!
-tfc.tooltip.anvil_no_hammer=Отсутствует молот!
+tfc.tooltip.anvil_plan=Креслення
+tfc.tooltip.anvil_tier_too_low=Низький рівень ковадла!
+tfc.tooltip.anvil_no_flux=Відсутній флюс!
+tfc.tooltip.anvil_too_cold=Предмет недостатньо гарячий, щоб з ним працювати!
+tfc.tooltip.anvil_no_hammer=Відсутній молот!
 tfc.tooltip.crucible_result=Результат:
-tfc.tooltip.barrel_seal=Запечатать
-tfc.tooltip.barrel_unseal=Вскрыть
-tfc.tooltip.barrel_cooling=Охлаждение
-tfc.tooltip.calendar=Календарь
+tfc.tooltip.barrel_seal=Запечатати
+tfc.tooltip.barrel_unseal=Розітнути
+tfc.tooltip.barrel_cooling=Охолодження
+tfc.tooltip.calendar=Календар
 tfc.tooltip.season=Сезон: %s
 tfc.tooltip.day=День: %s
 tfc.tooltip.date=Дата: %s
 tfc.tooltip.debug_times=TT: %d | PT: %d | CT: %d
-tfc.tooltip.food_expiry_date=Истекает: %s
-tfc.tooltip.food_rotten=Гнилое - я бы не стал это есть.
-tfc.tooltip.food_infinite_expiry=Не имеет срока годности
-tfc.tooltip.plant_cold=%sСлишком холодный%s
-tfc.tooltip.plant_dry=%sСлишком сухой%s
-tfc.tooltip.plant_hot=%sСлишком горячий%s
-tfc.tooltip.plant_rain=Rainfall:
+tfc.tooltip.food_expiry_date=Закінчується: %s
+tfc.tooltip.food_rotten=Гниле - я б не став це їсти.
+tfc.tooltip.food_infinite_expiry=Не має терміну придатності
+tfc.tooltip.plant_cold=%sЗанадто холодний%s
+tfc.tooltip.plant_dry=%sЗанадто сухий%s
+tfc.tooltip.plant_hot=%sЗанадто гарячий%s
+tfc.tooltip.plant_rain=Дощовий:
 tfc.tooltip.plant_temp=Температура:
 tfc.tooltip.plant_valid=%sХороший%s
-tfc.tooltip.plant_wet=%sСлишком влажный%s
+tfc.tooltip.plant_wet=%sЗанадто вологий%s
 tfc.tooltip.blast_furnace_ore_amount=Руда
-tfc.tooltip.blast_furnace_fuel_amount=Топливо
+tfc.tooltip.blast_furnace_fuel_amount=Паливо
 tfc.tooltip.blast_furnace_melt_amount=Сплав
-tfc.tooltip.large_vessel_seal=Запечатать
-tfc.tooltip.large_vessel_unseal=Вскрыть
-tfc.tooltip.goldpan.chunkworked=This area seems to be overworked. You probably wouldn't find much.
-tfc.tooltip.smithing_skill=Бонус к навыкам: %0.1f%%
+tfc.tooltip.large_vessel_seal=Запечатати
+tfc.tooltip.large_vessel_unseal=Розітнути
+tfc.tooltip.goldpan.chunkworked=Ця область, здається, перевантажена роботою. Ви, напевно, не знайдете багато чого.
+tfc.tooltip.smithing_skill=Бонус до навичок: %0.1f%%
 
 ## Animal Tooltips / Messages
-tfc.tooltip.animal.old=Это животное слишком старое для спаривания.
-tfc.tooltip.animal.lowfamiliarity=Это животное не приручено для спаривания.
-tfc.tooltip.animal.pregnant=Эта самка беременна!
-tfc.tooltip.animal.resting=Это животное отдыхает от сегодняшнего спаривания.
+tfc.tooltip.animal.old=Ця тварина занадто стара для спарювання.
+tfc.tooltip.animal.lowfamiliarity=Ця тварина не приручена для спарювання.
+tfc.tooltip.animal.pregnant=Ця самка вагітна!
+tfc.tooltip.animal.resting=Ця тварина відпочиває від сьогоднішнього спарювання.
 
-tfc.tooltip.animal.milk.male=Это бык!
-tfc.tooltip.animal.milk.old=Эта буренка слишком стара для дойки.
-tfc.tooltip.animal.milk.child=Эта буренка слишком молода для дойки.
-tfc.tooltip.animal.milk.lowfamiliarity=Эта буренка не приручена и не позволит вам доить ее.
-tfc.tooltip.animal.milk.empty=Эта буренка уже давала молоко сегодня.
+tfc.tooltip.animal.milk.male=Це Бик!
+tfc.tooltip.animal.milk.old=Ця корівка занадто стара для доїння.
+tfc.tooltip.animal.milk.child=Ця корівка занадто молода для доїння.
+tfc.tooltip.animal.milk.lowfamiliarity=Ця корівка не приручена і не дозволить вам доїти її.
+tfc.tooltip.animal.milk.empty=Ця корівка вже давала молоко сьогодні.
 
 ## Command Tooltips / Messages
-tfc.tooltip.set_month_length=Set Month Length to %d days.
-tfc.tooltip.time_command_set_player_time=Set Player Time to %d.
-tfc.tooltip.time_command_set_calendar_time=Set Calendar Time to %s.
-tfc.tooltip.time_command_disabled=This command has been disabled by TFC. Use /timetfc instead!
+tfc.tooltip.set_month_length=Встановіть довжину місяця в %d днів.
+tfc.tooltip.time_command_set_player_time=Встановіть час гравця на %d.
+tfc.tooltip.time_command_set_calendar_time=Встановіть календарний час на %s.
+tfc.tooltip.time_command_disabled=Ця команда була відключена TFC. Замість цього використовуйте /timetfc!
 
 ## Prospecting Result Messages
-tfc.propick.found=Найдено
-tfc.propick.found_traces=Найдены следы минерала
-tfc.propick.found_small=Найдена мала проба минерала
-tfc.propick.found_medium=Найдена средняя проба минерала
-tfc.propick.found_large=Найдена крупная проба минерала
-tfc.propick.found_very_large=Найдена огромная проба минерала
-tfc.propick.found_nothing=Ничего не найдено.
+tfc.propick.found=Знайдено
+tfc.propick.found_traces=Знайдено сліди мінералу
+tfc.propick.found_small=Знайдена мала проба мінералу
+tfc.propick.found_medium=Знайдена середня проба мінералу
+tfc.propick.found_large=Знайдена велика проба мінералу
+tfc.propick.found_very_large=Знайдена величезна проба мінералу
+tfc.propick.found_nothing=Нічого не знайдено.
 
 ## Thatch Bed
-tfc.thatch_bed.spawnpoint=Точка возрождения установлена
-tfc.thatch_bed.not_thundering=Эта кровать непригодна для сна
+tfc.thatch_bed.spawnpoint=Точка відродження встановлена
+tfc.thatch_bed.not_thundering=Це ліжко не придатне для сну
 
 ## Food Traits
-tfc.food_traits.smoked=Копчёный
-tfc.food_traits.brined=Засоленый
-tfc.food_traits.brined_active=Засаливается
-tfc.food_traits.salted=Солёный
-tfc.food_traits.pickled=Маринованный
-tfc.food_traits.pickled_active=Маринуется
-tfc.food_traits.preserved=Законсервированный
+tfc.food_traits.smoked=Копчений
+tfc.food_traits.brined=Засолений
+tfc.food_traits.brined_active=Засолювати
+tfc.food_traits.salted=Солоний
+tfc.food_traits.pickled=Маринований
+tfc.food_traits.pickled_active=Маринувати
+tfc.food_traits.preserved=Законсервований
 
 ## Skills
-tfc.skill.prospecting=Геолого-разведка: %s
-tfc.skill.smithing=Кузнечное дело: %s
-tfc.skill.agriculture=Земледелие: %s
-tfc.skill.butchering=Разделка животных: %s
+tfc.skill.prospecting=Геолого-розвідка: %s
+tfc.skill.smithing=Ковальство: %s
+tfc.skill.agriculture=Землеробство: %s
+tfc.skill.butchering=Оброблення тварин: %s
 
-tfc.enum.skilltier.novice=Новичок
-tfc.enum.skilltier.adept=Знаток
-tfc.enum.skilltier.expert=Эксперт
-tfc.enum.skilltier.master=Мастер
+tfc.enum.skilltier.novice=Новачок
+tfc.enum.skilltier.adept=Знавець
+tfc.enum.skilltier.expert=Експерт
+tfc.enum.skilltier.master=Майстер
 
 ## Keybindings
 tfc.key.craft=Crafting GUI
@@ -121,19 +121,19 @@ createWorld.customize.custom.riverRavineRarity=River Ravine Rarity
 
 # Config
 config.tfc=TerraFirmaCraft
-config.tfc.tooltip=Настройки TerraFirmaCraft
+config.tfc.tooltip=Налаштування TerraFirmaCraft
 
 ## General Config
-config.tfc.general=Общие параметры
-config.tfc.general.toolip=Это действительно общие параметры.
+config.tfc.general=Загальні параметри
+config.tfc.general.toolip=Це дійсно загальні параметри.
 
-config.tfc.general.debug=Режим отладки
-config.tfc.general.debug.tooltip=Различные параметры отладки. Активирует некоторые дополнительные функции. Включает дополнительные подсказки элементов.
+config.tfc.general.debug=Режим налагодження
+config.tfc.general.debug.tooltip=Різні параметри налагодження. Активує деякі додаткові функції. Включає додаткові підказки елементів.
 
-config.tfc.general.removeVanillaRecipes=Удалить ванильные рецепты
-config.tfc.general.removeVanillaRecipes.tooltip=Включить/отключить спам удаления ванильных рецептов. Отключить = эти рецепты остаются на месте.
+config.tfc.general.removeVanillaRecipes=Видалити ванільні рецепти
+config.tfc.general.removeVanillaRecipes.tooltip=Включити/відключити спам видалення ванільних рецептів. Відключити = ці рецепти залишаються на місці.
 
-config.tfc.general.removeVanillaLoots=Удалить ванильный лут
+config.tfc.general.removeVanillaLoots=Видалити ванільний лут
 config.tfc.general.removeVanillaLoots.tooltip=Enable/Disable the vanilla loot entries that conflict with TFC (ie: potatoes). False = Those loot entries are left in place.
 
 config.tfc.general.leafStickDropChance=Leaf Stick Drop Chance
